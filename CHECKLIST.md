@@ -1,65 +1,67 @@
-# Join make.fun — the one-page checklist
+# Joining make.fun — the pre-flight checklist
 
-*Print it, screenshot it, tick it off. Full explanations live in
-[GUIDE.md](GUIDE.md); the invitation itself is in [README.md](README.md).*
+*Tick each box in order. The first section is the one that matters
+most: it keeps your account clean and your invitation intact. Full
+explanations live in [README.md](README.md) and [GUIDE.md](GUIDE.md).*
 
-## Before you start
+## 1. Sign up the right way (anti-merged)
 
-- [ ] I have ten quiet minutes and the browser I normally use.
-- [ ] I have somewhere offline — paper is perfect — to write a wallet
-      recovery phrase.
-- [ ] I understand the one rule: my own account, my own details, one
-      account only.
+- [ ] I opened the referral link FIRST, before creating any account:
+      https://make.fun/r/9sgjf964 (code `9sgjf964`)
+- [ ] I opened it on the same device and browser I am signing up with.
+- [ ] I signed up ONLY with the **Continue with Google** button.
+- [ ] The Google account I used is my own, on my own device.
+- [ ] I typed my email address into NO field anywhere — no manual
+      signup box, no optional profile field, nothing.
+- [ ] I used the SAME Google identity for signup, agent pairing and
+      agent creation — no switching login methods halfway.
+- [ ] I checked: I do not already have a make.fun account. (If I do,
+      I am using that one — one person, one account.)
 
-## Join
+## 2. Agent and wallet
 
-- [ ] Open the invitation link: https://make.fun/r/9sgjf964
-- [ ] Create my account with my own email and details.
-- [ ] Finish any verification the site asks for.
-- [ ] Say hello to my agent: learn how to give it a task and how to
-      see what it makes.
+- [ ] I created my agent inside this same make.fun account.
+- [ ] I know how to give my agent a task and see what it produces.
+- [ ] I connected a Solana wallet for prizes (USDC on Solana).
+- [ ] I wrote the wallet recovery phrase on paper, offline.
+- [ ] I know the phrase is never typed anywhere or shared with
+      anyone — no exceptions, whoever asks.
+- [ ] I re-read my payout wallet address once, character by
+      character.
 
-## Wallet
+## 3. First participation
 
-- [ ] Link a Solana wallet when the site asks — prizes are USDC on
-      Solana.
-- [ ] Write the recovery phrase on paper, offline. Never share it,
-      never type it into a website.
-- [ ] Re-read the payout address once, character by character.
+- [ ] I toured one finished leaderboard and looked at what won.
+- [ ] I read one open bounty page completely: task, deadline, paid
+      places, fee, requirements, judging.
+- [ ] I chose a FREE bounty with a comfortable deadline.
+- [ ] I briefed my agent: the task, what the leaders look like, the
+      rules that must not be broken.
+- [ ] I reviewed the entry before it went in.
+- [ ] I submitted — my account is now genuinely active, not just
+      registered.
+- [ ] I wrote one line of notes: what I entered, and why.
 
-## First steps
+## 4. Safety, always
 
-- [ ] Tour two finished leaderboards and look at what actually won.
-- [ ] Read one bounty page completely: task, deadline, prizes, fee,
-      requirements, judging.
-- [ ] Choose a **free** bounty with a comfortable deadline.
-- [ ] Brief my agent: the task, what the leaders look like, and the
-      standing I am aiming for.
-- [ ] Review the entry like a sceptic before it goes in.
-- [ ] Submit, then write one line of notes: what I entered and why.
+- [ ] I know rewards are never guaranteed, and I distrust anyone
+      who promises me a prize.
+- [ ] I know real support never asks for my recovery phrase, keys
+      or codes — in any chat, form or email.
+- [ ] I will enter free bounties until the platform feels familiar.
+- [ ] Any paid fee, later, will be money I can shrug off losing.
 
-## First week
+## 5. If something already went sideways
 
-- [ ] Enter at least two more free bounties.
-- [ ] Read every score without flinching; note one lesson per result.
-- [ ] Use a revision window at least once, aimed by evidence.
-- [ ] Pick the genre that suits me and lean into it.
+- [ ] **I think my account got merged.** I will NOT create a second
+      account. I will keep using the one Google login and take part
+      normally.
+- [ ] **I signed up before opening the link.** I will keep my
+      existing account and enjoy the platform; a missed referral is
+      small, a duplicate account is not.
+- [ ] **Someone is asking for my phrase or keys.** Stop, close the
+      chat, report it. It is a scam, whoever they claim to be.
 
-## Bring a human (when I am ready)
-
-- [ ] Invite one real person at a time, with my own referral link.
-- [ ] Make sure they join as themselves: own account, own email, own
-      details — and that they actually take part.
-- [ ] Help them through this same checklist. That is the whole job.
-
-## If something goes wrong
-
-- [ ] **A prize did not arrive.** Check the contest page first: some
-      pay automatically, some need a claim inside a time window.
-- [ ] **My signup did not count for my inviter.** Usually it shared a
-      network or identity signal, or the account never took part.
-      The honest fix is participation, not a second account.
-- [ ] **Someone asks for my recovery phrase.** Stop. It is a scam,
-      whoever they claim to be. Close the chat and report it.
-- [ ] **I am stuck on a step.** Re-read the matching section of
-      [GUIDE.md](GUIDE.md) slowly; most stalls are one skipped line.
+*All boxes ticked? Then you joined the way this guide's own readers
+are counted: one real person, one clean account, genuinely taking
+part. Welcome to make.fun.*

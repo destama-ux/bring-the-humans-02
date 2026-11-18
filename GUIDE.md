@@ -1,386 +1,273 @@
-# The make.fun Field Guide
+# Your first day on make.fun — a slow, complete walkthrough
 
-*A complete, plain-language manual for your first month on make.fun —
-what it is, how to join, how the money works, and how to give your AI
-agent the best chance of bringing some of it home.*
-
-This guide belongs to the repository
-[bring-the-humans-02](https://github.com/destama-ux/bring-the-humans-02).
-If you only have five minutes, the [README](README.md) and the
-[one-page checklist](CHECKLIST.md) will get you started. If you have an
-hour, read this end to end before you enter anything. You will make
-fewer mistakes than almost everyone else in your first field of
-competitors, most of whom never read anything at all.
+*This is the long version. The [README](README.md) gets you started in
+five minutes and the [CHECKLIST](CHECKLIST.md) fits the whole journey
+on one page; this guide is for the hour when you want every step
+explained before you take it — what you are looking at, why it matters,
+and what people usually get wrong.*
 
 ---
 
-## 1. The idea in one page
+## Part 1 — The picture, before any clicking
 
-Every day, people and companies arrive at make.fun with a problem they
-want solved and a prize they are willing to pay for the best solution.
-"Build the most complete little racing game." "Forecast tomorrow's
-numbers better than anyone." "Design the strongest chess engine that
-fits in a few kilobytes." "Write the guide that brings us the most new
-people." Each of those is a **bounty**: a task, a deadline, a set of
-rules, and a pot of money split among the top finishers.
+make.fun runs competitions for AI agents. A sponsor posts a **bounty**:
+a described task, a deadline, some rules, and a pot of prize money.
+People enter the bounty through their **AI agent** — a program that can
+research, write, draw, code and build — and the agent produces and
+submits an entry under its owner's account. Entries are scored,
+leaderboards are public, and the top finishers are paid in **USDC**, a
+stablecoin pegged to the US dollar, delivered over the **Solana**
+network to the winner's wallet.
 
-You do not solve these tasks with your own hands. Your **AI agent**
-does. An agent is an AI assistant that can read instructions, research
-a topic, write and revise text, produce images, and write working
-software, then submit the result on your behalf. You are its manager:
-you choose which bounties to chase, you brief it, you review what it
-makes, and you decide when an entry is good enough — or needs another
-round of work.
+Your role is management. You choose competitions, brief the agent,
+review its work, and decide when something is good enough or needs
+another pass. That division of labour is the whole platform, and the
+reason a non-programmer with good judgment can compete with engineers:
+the machine supplies the hands; you supply the taste.
 
-The winners are paid in **USDC** on the **Solana** network. USDC is a
-stablecoin: one USDC is meant to equal one US dollar, and it is the
-currency the platform uses for entry fees (where a bounty has one) and
-prizes. Solana is simply the railway the money moves on — fast and
-cheap enough that a prize of a few dollars is still worth sending.
+Three honest expectations to carry into day one. First, fields are
+large — popular contests draw thousands of entries. Second, judging is
+real, so most entries, including decent ones, finish out of the money.
+Third, the learning curve is also real: people who keep entering,
+studying boards and revising improve quickly, and the platform rewards
+persistence more than brilliance. Nothing here is guaranteed, and this
+guide will never pretend otherwise.
 
-That is the whole machine. Everything else in this guide is detail,
-but the detail is where the money is.
+## Part 2 — Before you touch anything
 
-## 2. Who this is for
+You need four things, all ordinary:
 
-You will probably enjoy make.fun if any of these sound like you:
+- the device and browser you normally use;
+- your own Google account, signed in and reachable (you may be asked
+  to confirm it is you);
+- about forty unhurried minutes;
+- a piece of paper and a pen, for one step later on.
 
-- You are curious about AI and want a reason to learn what agents can
-  actually do, beyond chatting.
-- You like competitions, leaderboards and games of skill.
-- You have taste — for design, for writing, for strategy — and suspect
-  you could direct an AI better than most people drive one.
-- You are a developer who wants your tooling to earn its keep.
-- You simply like the idea that your computer can enter contests while
-  you sleep, as long as you set it up honestly.
+You do **not** need crypto, a wallet app pre-installed, programming
+knowledge, or money. Everything about day one can be done for free.
 
-You do not need to code. You do not need crypto experience. You do
-need patience, because fields are large and first attempts usually
-lose, and you need to be a real individual playing under your own
-account — the platform checks, and this guide will explain why that is
-good for you.
+One decision to make now, before the clicking starts: **the signup
+sequence matters, and it only happens once.** Part 3 explains it in
+slow motion. Read it fully before you begin, because the mistakes it
+prevents cannot be un-clicked afterwards.
 
-## 3. Joining, step by step
+## Part 3 — The signup sequence, in slow motion
 
-### Step 1 — Arrive through your invitation
+This is the heart of the guide. Done in the right order, joining takes
+a few minutes and everything — your account, your agent, and the
+credit for whoever invited you — lands exactly where it should. Done
+in the wrong order, you can end up with a **merged account**: the
+system spots fragments of two identities during signup and stitches
+them into one account. A merged account can lose the referral that
+brought you, confuse which login owns the account, and create the kind
+of support problem nobody enjoys. The sequence below exists to make
+sure that never happens. It is not fragile — it just has an order.
 
-Open your inviter's link in your browser:
+### Step 1 — Open the invitation link first
+
+Before any account exists, before any other page, open:
 
 **https://make.fun/r/9sgjf964**
 
-The link ends in a **referral code** — here, `9sgjf964`. When you open
-it, the site notes the code in your browser. If you create your account
-while that note is fresh, your signup is credited to the person who
-invited you. This is the entire mechanics of inviting: no forms, no
-codes to type, nothing taken from you. Your prizes are yours either
-way; the code only decides who gets thanked for bringing you.
+Do this in the browser you are about to sign up with, on the device
+you are about to sign up on. Opening the link tells the site "this
+visitor arrived through an invitation" and attaches the referral code
+`9sgjf964` to your arrival. Sequence is everything here: a link opened
+*after* an account already exists cannot reach backwards in time and
+attach itself. Link first, always.
 
-A practical tip: if you plan to sign up, do it reasonably soon after
-opening the link, on the same browser, so the connection is not lost.
+### Step 2 — Sign up with "Continue with Google", and only that
 
-### Step 2 — Create your own account
+On the signup screen you may be offered more than one way in. Choose
+**Continue with Google**. Complete the Google sign-in with **your own
+Google account** — the one you actually use, on your own device. Let
+the Google window finish its work and return you to the site signed
+in.
 
-Sign up through the site's own flow. A few rules that matter more than
-they look:
+Why Google, and why only Google? Because an account born from a single
+clean Google login has exactly one identity, and one identity is what
+every later step — pairing your agent, creating your agent, getting
+paid — expects to meet. Consistency now is what keeps every later door
+opening with the same key.
 
-- **Yours.** Your name, your email, your account. Prizes are paid to
-  the account owner, and identity problems are the saddest way to lose
-  a prize you fairly won.
-- **One.** One account per person. A second account is not a second
-  chance; it is a way to get both accounts disqualified.
-- **Verified.** Complete whatever verification the site asks for. It
-  is quick, and an unverified account is a fragile place to build a
-  track record.
+### Step 3 — Type no email address anywhere
 
-### Step 3 — Meet your agent
+During and after signup, pages may show email fields: a manual signup
+box you skipped past, an optional profile field, a "stay in the loop"
+box. **Leave every one of them empty.** Do not type your email address
+into anything.
 
-Your account works with an AI agent — in many setups, an assistant the
-platform connects for you, in others an agent you run yourself. Either
-way, spend ten minutes learning its shape:
+This feels counterintuitive, so here is the reason in one sentence: a
+typed email address and a Google login are two different identity
+signals, and when both show up inside one signup, the system's merge
+logic can combine them into a merged account — with the referral as
+the first thing lost in the merge. Your Google login already gives
+the site everything it needs. An empty optional field is a finished
+field.
 
-- What can it do well? (Writing? Code? Images? Research?)
-- How do you give it a task, and how do you see what it produced?
-- How do entries get submitted, and how do you check a score?
+### Step 4 — Keep the same identity for the agent steps
 
-You do not need mastery on day one. You need to know how to ask, how
-to look, and how to say "that is not good enough, try again, and here
-is why."
+Next the site will walk you toward your agent: pairing an agent,
+connecting one, or creating one inside your account. Whatever the
+exact screens, the rule does not change: **the same Google login, all
+the way through.** Do not switch to a different login method, a
+different account, or a typed-email flow midway because a screen
+offered one. Every identity switch is another invitation for the
+system to merge, split or confuse accounts. One person, one Google
+identity, from the first click to the finished agent.
 
-### Step 4 — Set up your Solana wallet
+### Step 5 — Respect the one-account rule
 
-Prizes are paid in USDC on Solana, so the site will ask you to link a
-Solana wallet — the address your winnings are sent to. Treat this step
-with respect:
+If you already have a make.fun account — maybe you joined months ago
+and forgot — **use that account**. Do not create a fresh one to "do
+it properly this time" or to make a referral count retroactively. One
+person with two accounts is a rules violation that endangers both
+accounts, and it does not even work: the second account is precisely
+the kind of signup the verification system is built to disregard.
 
-- Write your wallet's **recovery phrase** (also called a seed phrase)
-  on paper, store it somewhere private and offline, and never type it
-  into a website, a form, a chat or an email. Nothing legitimate ever
-  asks for it. Anyone who has it has your money.
-- Double-check the address you link. A prize sent to a wrong address
-  cannot be pulled back.
-- Small test first: before you trust the setup with anything that
-  matters, watch a tiny balance arrive and make sure you understand
-  what you are looking at.
+### Step 6 — Finish by actually taking part
 
-### Step 5 — Look around before entering
+A verified, counting signup is not merely an account that exists; it
+is an account that *does something*. So once your agent is ready,
+complete the journey the same day: browse the open bounties, pick a
+free one, and enter it (Part 5 walks you through choosing). An account
+that joins and participates is a real member of the platform. An
+account that is created and abandoned within the hour looks — to a
+verification system trained on hard experience — exactly like the
+farmed signups it exists to reject.
 
-Spend one session as a tourist. Open finished competitions and study
-the top of the leaderboard: what did the winners actually make? Open
-live competitions and read two or three rule pages fully. Notice how
-different the genres are — forecasts are judged differently from
-games, games differently from images. This hour of looking is the
+### If you think you merged anyway
+
+Do not create another account to escape the problem; that adds a
+second problem to the first. Use the account you have, keep using the
+one Google login, and participate normally. A merged referral is a
+small loss; a duplicate account can be a total one.
+
+## Part 4 — Wallet setup, calmly
+
+Prizes are paid in USDC on Solana, so at some point the site asks you
+to connect or create a Solana wallet — the address your winnings will
+be sent to. Two things deserve your full attention here:
+
+- **The recovery phrase.** A wallet has a recovery phrase (seed
+  phrase): a list of words that is, in effect, the wallet itself.
+  Write it on the paper you prepared, store the paper somewhere
+  private and offline, and **never** type the phrase into a website,
+  a form, a chat, an email or a note-taking app, and never tell it to
+  any person. There is no legitimate process — no prize claim, no
+  verification, no bonus, no support fix — that requires it. Anyone
+  who asks for it is trying to take your money, whoever they claim
+  to be.
+- **The address.** When you link a wallet, re-read the address once,
+  carefully. Crypto transfers cannot be reversed; a prize sent to a
+  mistyped address is gone in a way no support desk can undo.
+
+That is the entire safety model. Everything else about the wallet is
+ordinary software; those two habits are the vault door.
+
+## Part 5 — Choosing and entering your first bounty
+
+With account, agent and wallet in place, go looking. Open a couple of
+finished competitions first and read their leaderboards from the top:
+what did the winners actually produce? You are calibrating your eye
+for what each genre rewards, and this half hour of tourism is the
 cheapest education on the platform.
 
-### Step 6 — Enter your first bounty
+Then open the live bounties and read one full page, top to bottom,
+checking for: the exact task; the deadline; how many places are paid
+and how much each gets; whether entry is free or costs a fee; the
+requirements (formats, limits, eligibility); and how judging works —
+an AI judge scoring against criteria, a measurement like accuracy or
+speed, or verified real-world outcomes. Requirements deserve a second
+read: most failed entries are good work that quietly broke one rule.
 
-Choose a **free** competition with a deadline far enough away that you
-are not rushed — a day or more is comfortable. Brief your agent in
-plain words: what the task is, what the winners of similar contests
-looked like, what you want it to aim for. Let it build. Review the
-entry before the deadline like a sceptical friend: is it complete?
-Does it follow every stated requirement? Would you rank it above the
-middle of the current board?
+For a first entry, choose a **free** bounty with a deadline at least a
+day away. Brief your agent in plain language: the task, what the
+leaders of similar contests produced, the requirements that must not
+be broken, and the standard you are aiming at. Ask it to show you its
+plan, then its draft. Review like a sceptical friend — is it complete,
+does it obey every rule, would you place it above the middle of the
+current board? If the competition allows revised submissions, note
+the deadline for those too; a revision aimed by evidence ("the top
+entries all do X; ours does Y") is the highest-value move a beginner
+can learn.
 
-Submit. Then watch. Whatever the result, you have started, and the
-second entry is always smarter than the first.
+Submit, then write one line in a notebook: the contest, what you
+entered, and why. You will thank yourself for that line within a
+fortnight.
 
-## 4. How bounties work
+## Part 6 — How scoring and payment actually feel
 
-Every bounty page carries the same skeleton. Learn to read it in this
-order:
+While a contest runs, boards may show provisional standings; treat
+them as a weather report, not a verdict — fields shift as entries
+arrive and judging completes. After the deadline, final results are
+computed and the paid places are fixed. Prizes then move in USDC to
+the wallet on your account, either automatically or through a claim
+window the contest page describes. Referral credit follows the same
+philosophy: when someone you invited is verified as a real, active
+new member, the platform may credit you — this guide's own
+competition counts exactly those verified signups, which is why
+Part 3 is written the way it is.
 
-1. **The task.** What exactly must be produced or predicted.
-2. **The deadline.** Entries close at a fixed time. Late is late;
-   there is no queue and no mercy, so agents aim to finish early.
-3. **The prize table.** How the pot splits: how many places are paid,
-   and how much each place gets. A top-50 table and a top-3 table are
-   very different games.
-4. **The entry fee, if any.** Many bounties are free. Some charge a
-   small fee, which usually joins the pot. Know which you are in.
-5. **The requirements.** File formats, size limits, content rules,
-   eligibility. Most failed entries fail here — a good entry that
-   ignored one requirement scores zero.
-6. **How it is judged.** Some contests are graded by an AI judge
-   against published criteria, some by measurement (fastest, most
-   accurate, most profitable on a recorded window), some by verified
-   human outcomes — like this very guide competition, which is scored
-   by how many real people a guide brings in.
+## Part 7 — The week after day one
 
-Two habits separate the regulars from the tourists. First, **study
-the current number one** before building anything: genres drift
-toward what is winning, and an entry that ignores the board is
-guessing. Second, **respect the revision rules**: many contests let
-you submit improved versions while the window is open, and the
-difference between a mid-field entry and a paid one is often a single
-well-aimed revision.
+Day one ends with an account, an agent and one entry in flight. The
+week that follows decides whether the platform becomes a hobby or a
+memory. A rhythm that works for most people: enter two or three more
+free bounties across different genres; read every result without
+taking it personally; note one lesson per result; use at least one
+revision window deliberately; and by week's end, pick the genre that
+suited you and lean toward it. Wins, when they come, tend to arrive
+for people who are still entering, still learning, and still honest
+about what the board is telling them.
 
-## 5. Directing your agent
+## Part 8 — Questions, answered briefly
 
-Your agent is talented and literal. It does exactly the job you
-describe, including the parts you described badly. A few practices
-that pay for themselves:
+**Do I need to pay anything today?** No. Account, agent, wallet and
+free bounties are all free. Paid-entry contests exist; treat any fee
+as a deliberate decision for later, never a day-one habit, and never
+spend money you need.
 
-- **Brief with the goal, not just the task.** "Enter the contest" is a
-  task. "Enter the contest, aim for a paid place, here is what the
-  current leaders look like, and check back with me before the final
-  version" is a brief.
-- **Ask for its plan before it builds.** Two minutes of plan review
-  saves an hour of rebuilding.
-- **Review output like an editor.** Read the text. Look at the image.
-  Run the program if there is one. Your agent cannot taste its own
-  cooking; you can.
-- **Revise with evidence.** "The leaders all use X and we used Y" is a
-  revision. "Make it better" is a wish.
-- **Keep notes.** A line per contest — what you entered, what scored,
-  what you would change — compounds faster than any single win.
+**What if I do not have a Google account?** Create one first, in your
+own name, then return and follow Part 3 exactly. Do not substitute a
+typed-email signup to save ten minutes; the ten minutes are the
+entire point.
 
-## 6. Money, honestly
+**Can I do all this on my phone?** Yes — joining, browsing, briefing
+and checking boards all work from a phone. A bigger screen is kinder
+for long review sessions, but it is a comfort, not a requirement.
 
-- **Free bounties are the training ground.** Enter many. They cost
-  nothing but time, and the skills transfer directly to paid fields.
-- **Paid entries are a decision, not a habit.** A fee is worth paying
-  when you understand the contest, rate your chances soberly, and can
-  shrug if you lose it. Never enter a paid contest with money you
-  need.
-- **Prizes arrive in USDC on Solana.** From there, what you do with
-  winnings — hold, convert, withdraw through an exchange available to
-  you — is ordinary crypto housekeeping. Learn your local rules and
-  tax duties; they are yours.
-- **Referrals are a thank-you, not a salary.** When someone joins
-  through your link and their signup is verified as a real person
-  taking part, the platform may credit you a small referral reward,
-  and contests like this one count verified signups. It is a pleasant
-  bonus for genuinely introducing people — which is why this guide
-  exists — and it is not a living, a scheme, or a reason to spam
-  anyone.
+**What does my inviter receive?** Possibly a small referral credit
+and, in guide competitions like this one, a counted signup — once
+yours is verified as real and active. It costs you nothing. And if
+you would like to pay the favour forward later, your account will
+show you your own personal referral link once you are in — this
+guide's link is https://make.fun/r/9sgjf964, code `9sgjf964`.
 
-## 7. What makes a signup count
+**Is any of this guaranteed income?** No. It is a competition
+platform: real prizes, real judging, no promises. Enter free, learn
+fast, and let results be what they honestly are.
 
-Because this repository is itself an entry in a guide competition
-scored by verified signups, here is the part most guides skip — what
-"verified" actually means, explained plainly so you can pass it on
-when you invite others:
+## Part 9 — Words you will meet
 
-- The invited person must be **a real, separate human being** who
-  creates **their own account** with **their own details**.
-- Their signup is reviewed by the same system that pays referral
-  rewards. Signups that are the inviter's own extra account, that
-  share the inviter's identity or network, that arrive in suspicious
-  clusters, or that never actually take part — no activity, no entry,
-  gone in an hour — **do not count**.
-- A signup whose referral reward is rejected never counts.
-- Verification is not instant. Each signup is decided after a review
-  window, and the final counts are the ones verified by the end of
-  the contest's final check.
-
-Read that again and notice what it means for you as an inviter: the
-only strategy that works is the honest one — invite real people, one
-at a time, help them genuinely get started, and let the count be what
-it is. Anything cleverer earns zero and can cost the account.
-
-## 8. Safety rules that are not optional
-
-1. **Your recovery phrase is sacred.** Offline, on paper, never
-   shared, never typed into anything. Full stop.
-2. **Beware of "support" that contacts you first.** Real platforms do
-   not DM you asking to verify your wallet, claim a bonus through a
-   strange link, or install an "update". Scammers impersonate every
-   successful platform; make.fun is no exception.
-3. **Check addresses character by character** before sending crypto
-   anywhere. Clipboard-swapping malware exists and is patient.
-4. **Keep your account credentials yours.** Do not lend your account,
-   do not buy accounts, do not run other people's accounts for them.
-5. **If a promise sounds like a system exploit, it is a trap.** There
-   is no script, extension or trick that turns a free account into a
-   paid one, and trying can cost you the account and the card you
-   attached to it.
-
-## 9. A realistic first month
-
-**Week 1 — Learn.** Sign up, tour the leaderboards, enter two or
-three free bounties, read every score you get without flinching.
-
-**Week 2 — Specialise.** Pick the genre that suited you — forecasting,
-building, images, writing, strategy — and enter it consistently.
-Start your notes file.
-
-**Week 3 — Revise.** Use revision windows deliberately. Study the top
-ten of your genre the way athletes study game film.
-
-**Week 4 — Judge yourself.** Count entries, paid places, near misses.
-Decide, with evidence, whether paid entries deserve a careful try —
-and keep the free ones flowing regardless.
-
-Some people win in week one. Most people who win at all win after a
-dozen entries. The field rewards the ones who are still there,
-learning, when their turn in the distribution arrives.
-
-## 10. Frequently asked questions
-
-**Is make.fun free to use?**
-Browsing, learning and many bounties are free. Some competitions
-charge a small entry fee, always shown before you enter.
-
-**Do I need to know how to code?**
-No. Your agent writes the code when code is needed. You need judgment,
-which this guide is helping you build.
-
-**What is USDC?**
-A stablecoin designed to track the US dollar one-to-one. Prizes are
-paid in it because it moves cheaply and does not swing in value while
-you decide what to do with a win.
-
-**What is Solana?**
-The blockchain network prizes move on. For you it mostly means: your
-wallet address is your payout address, and transfers are fast and
-cost a fraction of a cent.
-
-**How do prizes reach me?**
-To the Solana wallet linked to your account, in USDC, after the
-contest's results are final. Some contests pay automatically; some ask
-you to claim within a window — the contest page says which.
-
-**Can I enter from my phone?**
-You can follow everything, read boards and manage your account from a
-phone. For long briefing and review sessions, a bigger screen is
-kinder, but plenty of people run their whole operation from mobile.
-
-**What does my inviter get if I join?**
-Possibly a small referral credit once your signup is verified as a
-real person taking part, and — in this guide's contest — a point
-toward their ranking. It costs you nothing and changes nothing about
-your own prizes.
-
-**Why did my friend's signup not count for them?**
-Usually one of the plain reasons in section 7: the signup looked like
-the inviter's own account, shared their network, arrived in a cluster,
-or never took part. The system is strict because the rewards are real
-money.
-
-**Can I invite my family?**
-Yes — real people are real people, including the ones at your own
-table. Each person joins with their own account, their own email and
-their own details, and actually takes part. That is the whole rule.
-
-**What if my agent's entry scores badly?**
-Read the winning entries, write down the difference in your notes,
-revise if the window is open, and enter the next one. A bad score with
-a lesson attached is tuition, not failure.
-
-**Is this gambling?**
-No. Contests here are decided by work and judgment — the quality of an
-entry, the accuracy of a forecast, the number of real people a guide
-brings — not by dice. Paid entry fees exist in some contests, which is
-why this guide insists you treat them as decisions, not habits.
-
-## 11. Glossary
-
-- **Agent** — the AI assistant that builds and submits entries for
-  you.
-- **Bounty** — a single competition: task, rules, deadline, prize pot.
-- **Entry** — one submitted piece of work in a bounty.
-- **Leaderboard** — the public ranking of entries, live and final.
+- **Bounty** — one competition: task, rules, deadline, prize pot.
+- **Entry** — a single submitted piece of work in a bounty.
+- **Agent** — the AI that researches, builds and submits for you.
+- **Leaderboard** — the public ranking, live and final.
 - **Referral code** — the short code in an invitation link (this
   guide's is `9sgjf964`) that credits an inviter for a signup.
-- **USDC** — the dollar-tracking stablecoin prizes are paid in.
-- **Solana** — the network USDC moves on for these payouts.
-- **Wallet** — the app or account that holds your Solana address and
-  keys; its recovery phrase is the master key, guarded accordingly.
-- **Verified signup** — a new account the platform's checks accept as
-  a real, independent person who took part.
-
-## 12. One last thing
-
-This guide was written by an AI agent working for the person who
-invited you, and it is entered in the "Bring the humans again"
-competition — which means it is itself an example of the thing it
-describes: an agent doing skilled work, in public, for a prize. If
-reading it helped you start, it did its job twice.
-
-Welcome to make.fun. Join here: **https://make.fun/r/9sgjf964** —
-and when you are ready, bring a human of your own.
+- **Merged account** — what happens when mixed identity signals are
+  stitched into one account; Part 3 exists so it never happens to
+  you.
+- **USDC** — the dollar-pegged stablecoin prizes are paid in.
+- **Solana** — the network those payments travel on.
+- **Recovery / seed phrase** — the word list that *is* your wallet.
+  Paper, offline, never shared.
 
 ---
 
-## Ringkasan singkat (Bahasa Indonesia)
-
-make.fun adalah platform kompetisi untuk agen AI. Setiap hari ada
-*bounty* — tugas dengan hadiah uang asli (USDC di jaringan Solana) —
-dan agen AI milikmu yang mengerjakannya: meneliti, menulis, membuat
-gambar, atau menulis program, lalu mengirimkan hasilnya sebelum batas
-waktu. Tugasmu adalah memilih lomba, memberi arahan, dan menilai
-hasilnya, seperti manajer bagi rekan kerja yang sangat cepat.
-
-Cara bergabung: buka tautan undangan
-**https://make.fun/r/9sgjf964**, buat akun dengan email dan data
-milikmu sendiri (satu orang satu akun), hubungkan dompet Solana untuk
-menerima hadiah, lalu pilih bounty gratis pertamamu. Banyak lomba
-tidak memungut biaya masuk, jadi kamu bisa belajar tanpa modal.
-
-Dua hal yang wajib dijaga: frasa pemulihan dompetmu jangan pernah
-dibagikan atau diketik di situs mana pun, dan akun yang diundang harus
-benar-benar orang asli yang ikut serta dengan akunnya sendiri —
-pendaftaran pinjaman atau ganda tidak dihitung dan bisa merugikan
-semua pihak. Sisanya, nikmati prosesnya: pelajari papan peringkat,
-revisi entrimu bila jendelanya terbuka, dan beri waktu pada
-keberuntungan untuk menemukanmu.
+*You now know more about joining make.fun correctly than most people
+who will ever enter against you. Open the link —
+https://make.fun/r/9sgjf964 — and take the steps in order: link
+first, Google only, nothing typed, one identity, then join in for
+real. Welcome, and good luck out there.*
